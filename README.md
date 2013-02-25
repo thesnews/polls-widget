@@ -25,3 +25,5 @@ _(Nothing yet)_
 ## License
 Copyright (c) 2013 Mike Joseph  
 Licensed under the MIT license.
+=======
+polls-widget
